@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">CustomListview</string>
+
+    <string-array name="countries">
+        <item>Australia</item>
+        <item>China</item>
+        <item>Germany</item>
+
+        <item>Russia</item>
+        <item>US</item>
+    </string-array>
+
+    <string-array name="australia_states">
+        <item>Steve Irwin</item>
+        <item>Born: February 22, 1962</item>
+        <item>Known For: Animal Documentary</item>
+        <item>Nationality Australian</item>
+        <item>Years active	1991–2006 </item>
+
+
+    </string-array>
+
+
+    <string-array name="us_states">
+        <item>MattDamon  </item>
+        <item>Born: October 8, 1970 </item>
+        <item>Known for Jason Bourne</item>
+        <item>Natonality: American</item>
+        <item>Years active 1970-current</item>
+    </string-array>
+    <string-array name="China_states">
+        <item>Jackie Chan </item>
+        <item>Born	7 April 1954  </item>
+        <item>Known for Martial Artist</item>
+        <item>Nationality Chinese</item>-->
+        <item>Years active 1954-current</item>
+    </string-array>
+    <string-array name="Germany_states">
+        <item>Christoph waltz</item>
+        <item>Born 4 October 1956 </item>
+        <item>Known for actor </item>
+        <item>Nationality Germany</item>
+        <item>Years active 1956-current</item>
+
+    </string-array>
+    <string-array name="Russia_states">
+        <item>Vladimir Mashkov</item>
+        <item>27 November 1963</item>
+        <item>Known for actor</item>
+        <item>Nationality Russia</item>
+        <item>Years active 1963-current</item>
+    </string-array>
+
+</resources>
